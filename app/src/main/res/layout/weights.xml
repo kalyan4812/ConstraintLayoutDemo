@@ -28,8 +28,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintHorizontal_weight="2"
         app:layout_constraintStart_toEndOf="@+id/button3"
-        tools:layout_editor_absoluteY="422dp" />
-
+        tools:layout_editor_absoluteY="100dp" />
     <Button
         android:id="@+id/button5"
         android:layout_width="0dp"

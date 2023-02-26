@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_constarint_set.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/align_views_using_baseline.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/alternate_constarintset.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/angles.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/barriers.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/chain.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/frame_effect.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/groups.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/guidlines.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/placeholder.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/ratio_constraint.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/weights.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
